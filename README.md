@@ -1,3 +1,3 @@
-# ctec-227-module-1-files
+# ctec-227-module-2-files
 
-This repo contains sample files for Module 1 of CTEC 227
+This repo contains sample files for Module 2 of CTEC 227
