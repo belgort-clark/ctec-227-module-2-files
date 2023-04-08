@@ -41,8 +41,7 @@
 </head>
 
 <body>
-	<!-- 	The cookie was set. The value is: <?php echo $_COOKIE['firstname']; ?>
- -->
+	<?php echo $_COOKIE['firstname']; ?>
 	<pre>
 		<?php print_r(headers_list()); ?>
 	</pre>
